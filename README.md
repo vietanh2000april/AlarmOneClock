@@ -19,6 +19,6 @@ provide alarm with *Mission* to make you awake and hardly go to sleep again.
 ## How to get  ##
 Can be found on CH play in near future. 
 
-##Credits##
+## Credits ##
 
 *Update soon*
