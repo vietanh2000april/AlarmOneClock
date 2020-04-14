@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\e219d81971507cbe735517c831c5f7b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f3ed31d933e4b9ace6979c0b59912e10\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f97c6beeb8de06ad2ea20e82f1a2ac95\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\edad677ae42217901e84b1900dcd9419\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\19766f91c54f7c296207e2ba82e40278\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9bcda958a4e0215ae36588eab5e9e367\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\2f5f455edae2864e8fb38514e251fe60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0b0f94a0ce2fda61b2dbc4e58d1f9ec5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3c3ae54796c754177ccfc7af563e1711\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\573c121a148240144a050746355fa2fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\badbf0edb0cf6b846a48e33b966723a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\fdfe6fe27c5e531c029dc1282dd95766\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\49ac03f39da1f88fc598a86cea470ffb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5c5be10b082c0ba9dd96818af293ae65\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\66a2ee8ab7aeaec1a14a3ea8ea07d5af\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\22b5e8c7e54c1078564debfb077bdbe5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fd27c8969914fbe6b5e0d613130cce95\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:7:22-73
+application
+ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:9:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f97c6beeb8de06ad2ea20e82f1a2ac95\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f97c6beeb8de06ad2ea20e82f1a2ac95\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.maalarm.finalalarm.MainActivity
+ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:22:27-74
+receiver#com.example.maalarm.finalalarm.Alarm_Receiver
+ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:26:9-52
+	android:name
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:26:19-49
+service#com.example.maalarm.finalalarm.RingtonePlayingService
+ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:28:9-30:19
+	android:enabled
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:29:13-35
+	android:name
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:28:18-56
+activity#com.example.maalarm.finalalarm.Pop
+ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:32:9-35:15
+	android:theme
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml:33:13-32
+uses-sdk
+INJECTED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\e219d81971507cbe735517c831c5f7b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\e219d81971507cbe735517c831c5f7b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f3ed31d933e4b9ace6979c0b59912e10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f3ed31d933e4b9ace6979c0b59912e10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f97c6beeb8de06ad2ea20e82f1a2ac95\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f97c6beeb8de06ad2ea20e82f1a2ac95\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\edad677ae42217901e84b1900dcd9419\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\edad677ae42217901e84b1900dcd9419\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\19766f91c54f7c296207e2ba82e40278\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\19766f91c54f7c296207e2ba82e40278\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9bcda958a4e0215ae36588eab5e9e367\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\9bcda958a4e0215ae36588eab5e9e367\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\2f5f455edae2864e8fb38514e251fe60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\2f5f455edae2864e8fb38514e251fe60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0b0f94a0ce2fda61b2dbc4e58d1f9ec5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0b0f94a0ce2fda61b2dbc4e58d1f9ec5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3c3ae54796c754177ccfc7af563e1711\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3c3ae54796c754177ccfc7af563e1711\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\573c121a148240144a050746355fa2fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\573c121a148240144a050746355fa2fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\badbf0edb0cf6b846a48e33b966723a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\badbf0edb0cf6b846a48e33b966723a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\fdfe6fe27c5e531c029dc1282dd95766\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\fdfe6fe27c5e531c029dc1282dd95766\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\49ac03f39da1f88fc598a86cea470ffb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\49ac03f39da1f88fc598a86cea470ffb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5c5be10b082c0ba9dd96818af293ae65\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5c5be10b082c0ba9dd96818af293ae65\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\66a2ee8ab7aeaec1a14a3ea8ea07d5af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\66a2ee8ab7aeaec1a14a3ea8ea07d5af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\22b5e8c7e54c1078564debfb077bdbe5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\22b5e8c7e54c1078564debfb077bdbe5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fd27c8969914fbe6b5e0d613130cce95\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\dell\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fd27c8969914fbe6b5e0d613130cce95\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dell\AndroidStudioProjects\FinalAlarm\app\src\main\AndroidManifest.xml
