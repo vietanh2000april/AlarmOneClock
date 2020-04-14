@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Our Alarm Clock</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="alarm_array">
+        <item>Pick an alarm ringtone!</item>
+        <item>Deep</item>
+        <item>Beep</item>
+        <item>PTSD</item>
+        <item>Mother Russia</item>
+        <item>Video</item>
+    </string-array>
+
+</resources>

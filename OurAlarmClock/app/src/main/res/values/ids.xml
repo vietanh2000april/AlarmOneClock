@@ -1,0 +1,9 @@
+<resources>
+    android:id="@+id/update_text"
+    <!--android:id="@+id/youtube_player_view"-->
+    <!--android:id="@+id/open_video"-->
+    <!--android:id="@+id/richard_spinner"-->
+    <!--android:id="@+id/alarm_off"-->
+    <!--android:id="@+id/alarm_on"-->
+    <!--android:id="@+id/toolbar"-->
+</resources>
